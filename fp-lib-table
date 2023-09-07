@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name thermistor_calibrator)(type KiCad)(uri ${KIPRJMOD}/thermistor_calibrator.pretty)(options "")(descr ""))
+)
